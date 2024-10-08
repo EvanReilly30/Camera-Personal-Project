@@ -23,5 +23,7 @@ Proposed Solution: To mitigate these risks, the project proposed an approach to 
 Outcome:
 This project resulted in a more secure and reliable camera setup by eliminating wireless packet interference risks. The use of a wired connection enhanced both security and speed of the camera system.
 
-Link to Code and Documentation:
+Link Documentation:
 https://docs.google.com/document/d/1wUrKKA48RB10Mv9DlNO933r5p8XR_fN1BfIsod0jG5Q/edit?usp=sharing
+
+PSEUDCODE PROVIDED AT THE TOP (python)
