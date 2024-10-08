@@ -10,11 +10,15 @@ Technologies Used:
 ESP32 Microcontroller: Used to simulate and analyze wireless communication between cameras and their controlling devices.
 Wireless Network Analysis Tools (Wireshark): Employed to detect potential vulnerabilities such as packet loss, signal interference, and unauthorized data interception.
 
+
 Key Features:
 
 Vulnerability Identification: Conducted tests to explore how external interference, such as interference, could disrupt the normal operation of wireless cameras, affecting their ability to transmit secure footage.
+
 Interference Demonstration: Demonstrated how these vulnerabilities could be exploited to compromise camera functionality or hijack the transmission of video data.
+
 Proposed Solution: To mitigate these risks, the project proposed an approach to hardwire the cameras directly to a network, thereby bypassing the vulnerabilities in wireless communication and improving overall system security.
+
 
 Outcome:
 This project resulted in a more secure and reliable camera setup by eliminating wireless packet interference risks. The use of a wired connection enhanced both security and speed of the camera system.
